@@ -1,0 +1,501 @@
+default_id,loan_id,default_date,amount_outstanding,default_reason
+D001,L001,2023-10-15,4200.00,Payment default - 90 days overdue
+D002,L002,2023-12-01,1800.00,Payment default - account closed
+D003,L003,2023-09-01,3200.00,Multiple missed payments
+D004,L004,2023-08-20,18500.00,Business failure
+D005,L005,2023-11-10,7500.00,Job loss
+D006,L006,2023-07-15,12000.00,Payment default
+D007,L007,2023-12-20,8500.00,Bankruptcy
+D008,L008,2024-01-05,22000.00,Multiple missed payments
+D009,L009,2023-10-30,15000.00,Payment default
+D010,L010,2023-09-25,9000.00,Financial hardship
+D011,L011,2023-11-15,18000.00,Business closure
+D012,L012,2023-08-10,7500.00,Payment default
+D013,L013,2023-12-05,12500.00,Job loss
+D014,L014,2023-10-20,16000.00,Multiple missed payments
+D015,L015,2023-09-15,11000.00,Payment default
+D016,L016,2023-11-30,19500.00,Financial hardship
+D017,L017,2023-08-25,8000.00,Payment default
+D018,L018,2023-12-15,14000.00,Business failure
+D019,L019,2023-10-05,9500.00,Multiple missed payments
+D020,L020,2023-09-20,17000.00,Payment default
+D021,L021,2023-11-25,13000.00,Job loss
+D022,L022,2023-08-15,10500.00,Payment default
+D023,L023,2023-12-10,16500.00,Financial hardship
+D024,L024,2023-10-25,11500.00,Multiple missed payments
+D025,L025,2023-09-10,14500.00,Payment default
+D026,L026,2023-11-05,8800.00,Payment default - 60 days overdue
+D027,L027,2024-01-10,7200.00,Employment termination
+D028,L028,2023-10-18,15600.00,Multiple missed payments
+D029,L029,2023-12-22,9200.00,Medical emergency
+D030,L030,2023-09-08,13400.00,Payment default
+D031,L031,2023-08-12,6800.00,Business downturn
+D032,L032,2023-11-28,11200.00,Payment default
+D033,L033,2024-01-15,7800.00,Divorce settlement
+D034,L034,2023-10-08,18900.00,Multiple missed payments
+D035,L035,2023-09-18,10200.00,Payment default
+D036,L036,2023-11-12,15600.00,Natural disaster impact
+D037,L037,2023-08-22,8400.00,Payment default
+D038,L038,2023-12-28,11800.00,Business relocation
+D039,L039,2023-10-12,17200.00,Multiple missed payments
+D040,L040,2023-09-22,9600.00,Payment default
+D041,L041,2023-11-18,14200.00,Legal issues
+D042,L042,2023-08-28,7600.00,Payment default
+D043,L043,2024-01-08,12400.00,Family emergency
+D044,L044,2023-10-22,19600.00,Multiple missed payments
+D045,L045,2023-09-28,10800.00,Payment default
+D046,L046,2023-11-22,14800.00,Market volatility
+D047,L047,2023-08-30,8200.00,Payment default
+D048,L048,2023-12-18,12800.00,Health issues
+D049,L049,2023-10-28,18200.00,Multiple missed payments
+D050,L050,2023-09-30,11400.00,Payment default
+D051,L051,2023-11-08,13200.00,Payment default - 30 days overdue
+D052,L052,2024-01-12,8800.00,Employment termination
+D053,L053,2023-10-02,16400.00,Multiple missed payments
+D054,L054,2023-12-25,9400.00,Reduced work hours
+D055,L055,2023-09-05,13800.00,Payment default
+D056,L056,2023-08-18,7000.00,Industry disruption
+D057,L057,2023-11-02,11600.00,Payment default
+D058,L058,2024-01-18,8000.00,Salary reduction
+D059,L059,2023-10-14,17600.00,Multiple missed payments
+D060,L060,2023-09-24,10400.00,Payment default
+D061,L061,2023-11-20,14600.00,Unexpected expenses
+D062,L062,2023-08-26,7800.00,Payment default
+D063,L063,2024-01-02,12600.00,Car accident expenses
+D064,L064,2023-10-24,19200.00,Multiple missed payments
+D065,L065,2023-09-26,11000.00,Payment default
+D066,L066,2023-11-24,15200.00,Economic recession impact
+D067,L067,2023-08-31,8400.00,Payment default
+D068,L068,2023-12-20,13000.00,Home repair emergency
+D069,L069,2023-10-30,18400.00,Multiple missed payments
+D070,L070,2023-09-28,11600.00,Payment default
+D071,L071,2023-11-26,15400.00,Interest rate hike
+D072,L072,2023-09-02,8600.00,Payment default
+D073,L073,2024-01-22,13200.00,Childcare costs
+D074,L074,2023-10-26,18800.00,Multiple missed payments
+D075,L075,2023-09-30,11800.00,Payment default
+D076,L076,2023-11-28,15800.00,Inflation pressure
+D077,L077,2023-09-04,8800.00,Payment default
+D078,L078,2023-12-24,13400.00,Education expenses
+D079,L079,2023-10-28,19000.00,Multiple missed payments
+D080,L080,2023-10-02,12000.00,Payment default
+D081,L081,2023-11-30,16000.00,Housing market crash
+D082,L082,2023-09-06,9000.00,Payment default
+D083,L083,2024-01-25,13600.00,Pet medical emergency
+D084,L084,2023-10-30,19400.00,Multiple missed payments
+D085,L085,2023-10-04,12200.00,Payment default
+D086,L086,2023-12-02,16200.00,Stock market decline
+D087,L087,2023-09-08,9200.00,Payment default
+D088,L088,2024-01-28,13800.00,Wedding expenses
+D089,L089,2023-11-01,19800.00,Multiple missed payments
+D090,L090,2023-10-06,12400.00,Payment default
+D091,L091,2023-12-04,16400.00,Currency fluctuation
+D092,L092,2023-09-10,9400.00,Payment default
+D093,L093,2024-01-30,14000.00,Travel emergency
+D094,L094,2023-11-03,20000.00,Multiple missed payments
+D095,L095,2023-10-08,12600.00,Payment default
+D096,L096,2023-12-06,16600.00,Commodity price spike
+D097,L097,2023-09-12,9600.00,Payment default
+D098,L098,2024-02-01,14200.00,Family vacation costs
+D099,L099,2023-11-05,20200.00,Multiple missed payments
+D100,L100,2023-10-10,12800.00,Payment default
+D101,L101,2023-12-08,16800.00,Supply chain disruption
+D102,L102,2023-09-14,9800.00,Payment default
+D103,L103,2024-02-03,14400.00,Home appliance replacement
+D104,L104,2023-11-07,20400.00,Multiple missed payments
+D105,L105,2023-10-12,13000.00,Payment default
+D106,L106,2023-12-10,17000.00,Raw material cost increase
+D107,L107,2023-09-16,10000.00,Payment default
+D108,L108,2024-02-05,14600.00,Car breakdown
+D109,L109,2023-11-09,20600.00,Multiple missed payments
+D110,L110,2023-10-14,13200.00,Payment default
+D111,L111,2023-12-12,17200.00,Transportation costs surge
+D112,L112,2023-09-18,10200.00,Payment default
+D113,L113,2024-02-07,14800.00,Phone system upgrade
+D114,L114,2023-11-11,20800.00,Multiple missed payments
+D115,L115,2023-10-16,13400.00,Payment default
+D116,L116,2023-12-14,17400.00,Energy price increase
+D117,L117,2023-09-20,10400.00,Payment default
+D118,L118,2024-02-09,15000.00,Computer system failure
+D119,L119,2023-11-13,21000.00,Multiple missed payments
+D120,L120,2023-10-18,13600.00,Payment default
+D121,L121,2023-12-16,17600.00,Tax increase impact
+D122,L122,2023-09-22,10600.00,Payment default
+D123,L123,2024-02-11,15200.00,Office equipment repair
+D124,L124,2023-11-15,21200.00,Multiple missed payments
+D125,L125,2023-10-20,13800.00,Payment default
+D126,L126,2023-12-18,17800.00,Regulatory compliance costs
+D127,L127,2023-09-24,10800.00,Payment default
+D128,L128,2024-02-13,15400.00,Software license renewal
+D129,L129,2023-11-17,21400.00,Multiple missed payments
+D130,L130,2023-10-22,14000.00,Payment default
+D131,L131,2023-12-20,18000.00,Insurance premium hike
+D132,L132,2023-09-26,11000.00,Payment default
+D133,L133,2024-02-15,15600.00,Website development costs
+D134,L134,2023-11-19,21600.00,Multiple missed payments
+D135,L135,2023-10-24,14200.00,Payment default
+D136,L136,2023-12-22,18200.00,Professional fees increase
+D137,L137,2023-09-28,11200.00,Payment default
+D138,L138,2024-02-17,15800.00,Marketing campaign costs
+D139,L139,2023-11-21,21800.00,Multiple missed payments
+D140,L140,2023-10-26,14400.00,Payment default
+D141,L141,2023-12-24,18400.00,Rent increase
+D142,L142,2023-09-30,11400.00,Payment default
+D143,L143,2024-02-19,16000.00,Employee training costs
+D144,L144,2023-11-23,22000.00,Multiple missed payments
+D145,L145,2023-10-28,14600.00,Payment default
+D146,L146,2023-12-26,18600.00,Utility costs surge
+D147,L147,2023-10-02,11600.00,Payment default
+D148,L148,2024-02-21,16200.00,Business travel expenses
+D149,L149,2023-11-25,22200.00,Multiple missed payments
+D150,L150,2023-10-30,14800.00,Payment default
+D151,L151,2023-12-28,18800.00,Maintenance costs
+D152,L152,2023-10-04,11800.00,Payment default
+D153,L153,2024-02-23,16400.00,Conference attendance
+D154,L154,2023-11-27,22400.00,Multiple missed payments
+D155,L155,2023-11-01,15000.00,Payment default
+D156,L156,2023-12-30,19000.00,Equipment upgrade
+D157,L157,2023-10-06,12000.00,Payment default
+D158,L158,2024-02-25,16600.00,Consulting fees
+D159,L159,2023-11-29,22600.00,Multiple missed payments
+D160,L160,2023-11-03,15200.00,Payment default
+D161,L161,2024-01-01,19200.00,Software upgrade costs
+D162,L162,2023-10-08,12200.00,Payment default
+D163,L163,2024-02-27,16800.00,Legal consultation
+D164,L164,2023-12-01,22800.00,Multiple missed payments
+D165,L165,2023-11-05,15400.00,Payment default
+D166,L166,2024-01-03,19400.00,Security system upgrade
+D167,L167,2023-10-10,12400.00,Payment default
+D168,L168,2024-03-01,17000.00,Accounting services
+D169,L169,2023-12-03,23000.00,Multiple missed payments
+D170,L170,2023-11-07,15600.00,Payment default
+D171,L171,2024-01-05,19600.00,Inventory management system
+D172,L172,2023-10-12,12600.00,Payment default
+D173,L173,2024-03-03,17200.00,HR management costs
+D174,L174,2023-12-05,23200.00,Multiple missed payments
+D175,L175,2023-11-09,15800.00,Payment default
+D176,L176,2024-01-07,19800.00,Quality control system
+D177,L177,2023-10-14,12800.00,Payment default
+D178,L178,2024-03-05,17400.00,Compliance audit
+D179,L179,2023-12-07,23400.00,Multiple missed payments
+D180,L180,2023-11-11,16000.00,Payment default
+D181,L181,2024-01-09,20000.00,Data backup system
+D182,L182,2023-10-16,13000.00,Payment default
+D183,L183,2024-03-07,17600.00,Environmental compliance
+D184,L184,2023-12-09,23600.00,Multiple missed payments
+D185,L185,2023-11-13,16200.00,Payment default
+D186,L186,2024-01-11,20200.00,Network infrastructure
+D187,L187,2023-10-18,13200.00,Payment default
+D188,L188,2024-03-09,17800.00,Safety equipment upgrade
+D189,L189,2023-12-11,23800.00,Multiple missed payments
+D190,L190,2023-11-15,16400.00,Payment default
+D191,L191,2024-01-13,20400.00,Communication system
+D192,L192,2023-10-20,13400.00,Payment default
+D193,L193,2024-03-11,18000.00,Warehouse maintenance
+D194,L194,2023-12-13,24000.00,Multiple missed payments
+D195,L195,2023-11-17,16600.00,Payment default
+D196,L196,2024-01-15,20600.00,Shipping costs increase
+D197,L197,2023-10-22,13600.00,Payment default
+D198,L198,2024-03-13,18200.00,Packaging material costs
+D199,L199,2023-12-15,24200.00,Multiple missed payments
+D200,L200,2023-11-19,16800.00,Payment default
+D201,L201,2024-01-17,20800.00,Import/export delays
+D202,L202,2023-10-24,13800.00,Payment default
+D203,L203,2024-03-15,18400.00,Customs clearance issues
+D204,L204,2023-12-17,24400.00,Multiple missed payments
+D205,L205,2023-11-21,17000.00,Payment default
+D206,L206,2024-01-19,21000.00,Currency exchange loss
+D207,L207,2023-10-26,14000.00,Payment default
+D208,L208,2024-03-17,18600.00,International shipping
+D209,L209,2023-12-19,24600.00,Multiple missed payments
+D210,L210,2023-11-23,17200.00,Payment default
+D211,L211,2024-01-21,21200.00,Tariff increases
+D212,L212,2023-10-28,14200.00,Payment default
+D213,L213,2024-03-19,18800.00,Cross-border regulations
+D214,L214,2023-12-21,24800.00,Multiple missed payments
+D215,L215,2023-11-25,17400.00,Payment default
+D216,L216,2024-01-23,21400.00,Trade agreement changes
+D217,L217,2023-10-30,14400.00,Payment default
+D218,L218,2024-03-21,19000.00,Export documentation
+D219,L219,2023-12-23,25000.00,Multiple missed payments
+D220,L220,2023-11-27,17600.00,Payment default
+D221,L221,2024-01-25,21600.00,Import restrictions
+D222,L222,2023-11-01,14600.00,Payment default
+D223,L223,2024-03-23,19200.00,Certification costs
+D224,L224,2023-12-25,25200.00,Multiple missed payments
+D225,L225,2023-11-29,17800.00,Payment default
+D226,L226,2024-01-27,21800.00,Quality certification
+D227,L227,2023-11-03,14800.00,Payment default
+D228,L228,2024-03-25,19400.00,Product testing
+D229,L229,2023-12-27,25400.00,Multiple missed payments
+D230,L230,2023-12-01,18000.00,Payment default
+D231,L231,2024-01-29,22000.00,Safety standards
+D232,L232,2023-11-05,15000.00,Payment default
+D233,L233,2024-03-27,19600.00,Environmental testing
+D234,L234,2023-12-29,25600.00,Multiple missed payments
+D235,L235,2023-12-03,18200.00,Payment default
+D236,L236,2024-01-31,22200.00,Industry certification
+D237,L237,2023-11-07,15200.00,Payment default
+D238,L238,2024-03-29,19800.00,Compliance testing
+D239,L239,2023-12-31,25800.00,Multiple missed payments
+D240,L240,2023-12-05,18400.00,Payment default
+D241,L241,2024-02-02,22400.00,Product liability
+D242,L242,2023-11-09,15400.00,Payment default
+D243,L243,2024-03-31,20000.00,Warranty claims
+D244,L244,2024-01-02,26000.00,Multiple missed payments
+D245,L245,2023-12-07,18600.00,Payment default
+D246,L246,2024-02-04,22600.00,Customer returns
+D247,L247,2023-11-11,15600.00,Payment default
+D248,L248,2024-04-02,20200.00,Product recall
+D249,L249,2024-01-04,26200.00,Multiple missed payments
+D250,L250,2023-12-09,18800.00,Payment default
+D251,L251,2024-02-06,22800.00,Service complaints
+D252,L252,2023-11-13,15800.00,Payment default
+D253,L253,2024-04-04,20400.00,Customer disputes
+D254,L254,2024-01-06,26400.00,Multiple missed payments
+D255,L255,2023-12-11,19000.00,Payment default
+D256,L256,2024-02-08,23000.00,Refund requests
+D257,L257,2023-11-15,16000.00,Payment default
+D258,L258,2024-04-06,20600.00,Service interruptions
+D259,L259,2024-01-08,26600.00,Multiple missed payments
+D260,L260,2023-12-13,19200.00,Payment default
+D261,L261,2024-02-10,23200.00,Technical support costs
+D262,L262,2023-11-17,16200.00,Payment default
+D263,L263,2024-04-08,20800.00,System downtime
+D264,L264,2024-01-10,26800.00,Multiple missed payments
+D265,L265,2023-12-15,19400.00,Payment default
+D266,L266,2024-02-12,23400.00,Data recovery
+D267,L267,2023-11-19,16400.00,Payment default
+D268,L268,2024-04-10,21000.00,Network outage
+D269,L269,2024-01-12,27000.00,Multiple missed payments
+D270,L270,2023-12-17,19600.00,Payment default
+D271,L271,2024-02-14,23600.00,Server maintenance
+D272,L272,2023-11-21,16600.00,Payment default
+D273,L273,2024-04-12,21200.00,Cloud service costs
+D274,L274,2024-01-14,27200.00,Multiple missed payments
+D275,L275,2023-12-19,19800.00,Payment default
+D276,L276,2024-02-16,23800.00,Data storage costs
+D277,L277,2023-11-23,16800.00,Payment default
+D278,L278,2024-04-14,21400.00,Backup system failure
+D279,L279,2024-01-16,27400.00,Multiple missed payments
+D280,L280,2023-12-21,20000.00,Payment default
+D281,L281,2024-02-18,24000.00,Cybersecurity breach
+D282,L282,2023-11-25,17000.00,Payment default
+D283,L283,2024-04-16,21600.00,Data protection costs
+D284,L284,2024-01-18,27600.00,Multiple missed payments
+D285,L285,2023-12-23,20200.00,Payment default
+D286,L286,2024-02-20,24200.00,Privacy compliance
+D287,L287,2023-11-27,17200.00,Payment default
+D288,L288,2024-04-18,21800.00,GDPR compliance costs
+D289,L289,2024-01-20,27800.00,Multiple missed payments
+D290,L290,2023-12-25,20400.00,Payment default
+D291,L291,2024-02-22,24400.00,Data encryption
+D292,L292,2023-11-29,17400.00,Payment default
+D293,L293,2024-04-20,22000.00,Firewall upgrade
+D294,L294,2024-01-22,28000.00,Multiple missed payments
+D295,L295,2023-12-27,20600.00,Payment default
+D296,L296,2024-02-24,24600.00,Antivirus software
+D297,L297,2023-12-01,17600.00,Payment default
+D298,L298,2024-04-22,22200.00,Security audit
+D299,L299,2024-01-24,28200.00,Multiple missed payments
+D300,L300,2023-12-29,20800.00,Payment default
+D301,L301,2024-02-26,24800.00,Network security upgrade
+D302,L302,2023-12-03,17800.00,Payment default
+D303,L303,2024-04-24,22400.00,Access control system
+D304,L304,2024-01-26,28400.00,Multiple missed payments
+D305,L305,2023-12-31,21000.00,Payment default
+D306,L306,2024-02-28,25000.00,Surveillance system
+D307,L307,2023-12-05,18000.00,Payment default
+D308,L308,2024-04-26,22600.00,Alarm system installation
+D309,L309,2024-01-28,28600.00,Multiple missed payments
+D310,L310,2024-01-02,21200.00,Payment default
+D311,L311,2024-03-01,25200.00,Security personnel costs
+D312,L312,2023-12-07,18200.00,Payment default
+D313,L313,2024-04-28,22800.00,Monitoring services
+D314,L314,2024-01-30,28800.00,Multiple missed payments
+D315,L315,2024-01-04,21400.00,Payment default
+D316,L316,2024-03-03,25400.00,Emergency response system
+D317,L317,2023-12-09,18400.00,Payment default
+D318,L318,2024-04-30,23000.00,Disaster recovery plan
+D319,L319,2024-02-01,29000.00,Multiple missed payments
+D320,L320,2024-01-06,21600.00,Payment default
+D321,L321,2024-03-05,25600.00,Business continuity plan
+D322,L322,2023-12-11,18600.00,Payment default
+D323,L323,2024-05-02,23200.00,Crisis management
+D324,L324,2024-02-03,29200.00,Multiple missed payments
+D325,L325,2024-01-08,21800.00,Payment default
+D326,L326,2024-03-07,25800.00,Emergency supplies
+D327,L327,2023-12-13,18800.00,Payment default
+D328,L328,2024-05-04,23400.00,Backup power system
+D329,L329,2024-02-05,29400.00,Multiple missed payments
+D330,L330,2024-01-10,22000.00,Payment default
+D331,L331,2024-03-09,26000.00,Water damage repair
+D332,L332,2023-12-15,19000.00,Payment default
+D333,L333,2024-05-06,23600.00,Fire damage restoration
+D334,L334,2024-02-07,29600.00,Multiple missed payments
+D335,L335,2024-01-12,22200.00,Payment default
+D336,L336,2024-03-11,26200.00,Storm damage repair
+D337,L337,2023-12-17,19200.00,Payment default
+D338,L338,2024-05-08,23800.00,Flood restoration
+D339,L339,2024-02-09,29800.00,Multiple missed payments
+D340,L340,2024-01-14,22400.00,Payment default
+D341,L341,2024-03-13,26400.00,Earthquake damage
+D342,L342,2023-12-19,19400.00,Payment default
+D343,L343,2024-05-10,24000.00,Hurricane impact
+D344,L344,2024-02-11,30000.00,Multiple missed payments
+D345,L345,2024-01-16,22600.00,Payment default
+D346,L346,2024-03-15,26600.00,Tornado damage
+D347,L347,2023-12-21,19600.00,Payment default
+D348,L348,2024-05-12,24200.00,Winter storm impact
+D349,L349,2024-02-13,30200.00,Multiple missed payments
+D350,L350,2024-01-18,22800.00,Payment default
+D351,L351,2024-03-17,26800.00,Heat wave impact
+D352,L352,2023-12-23,19800.00,Payment default
+D353,L353,2024-05-14,24400.00,Drought conditions
+D354,L354,2024-02-15,30400.00,Multiple missed payments
+D355,L355,2024-01-20,23000.00,Payment default
+D356,L356,2024-03-19,27000.00,Wildfire damage
+D357,L357,2023-12-25,20000.00,Payment default
+D358,L358,2024-05-16,24600.00,Smoke damage
+D359,L359,2024-02-17,30600.00,Multiple missed payments
+D360,L360,2024-01-22,23200.00,Payment default
+D361,L361,2024-03-21,27200.00,Water shortage
+D362,L362,2023-12-27,20200.00,Payment default
+D363,L363,2024-05-18,24800.00,Power outage impact
+D364,L364,2024-02-19,30800.00,Multiple missed payments
+D365,L365,2024-01-24,23400.00,Payment default
+D366,L366,2024-03-23,27400.00,Internet outage
+D367,L367,2023-12-29,20400.00,Payment default
+D368,L368,2024-05-20,25000.00,Communication failure
+D369,L369,2024-02-21,31000.00,Multiple missed payments
+D370,L370,2024-01-26,23600.00,Payment default
+D371,L371,2024-03-25,27600.00,Transportation strike
+D372,L372,2023-12-31,20600.00,Payment default
+D373,L373,2024-05-22,25200.00,Public transit issues
+D374,L374,2024-02-23,31200.00,Multiple missed payments
+D375,L375,2024-01-28,23800.00,Payment default
+D376,L376,2024-03-27,27800.00,Road closures
+D377,L377,2024-01-02,20800.00,Payment default
+D378,L378,2024-05-24,25400.00,Bridge construction
+D379,L379,2024-02-25,31400.00,Multiple missed payments
+D380,L380,2024-01-30,24000.00,Payment default
+D381,L381,2024-03-29,28000.00,Highway maintenance
+D382,L382,2024-01-04,21000.00,Payment default
+D383,L383,2024-05-26,25600.00,Traffic congestion
+D384,L384,2024-02-27,31600.00,Multiple missed payments
+D385,L385,2024-02-01,24200.00,Payment default
+D386,L386,2024-03-31,28200.00,Parking limitations
+D387,L387,2024-01-06,21200.00,Payment default
+D388,L388,2024-05-28,25800.00,Delivery delays
+D389,L389,2024-02-29,31800.00,Multiple missed payments
+D390,L390,2024-02-03,24400.00,Payment default
+D391,L391,2024-04-02,28400.00,Shipping disruptions
+D392,L392,2024-01-08,21400.00,Payment default
+D393,L393,2024-05-30,26000.00,Cargo damage
+D394,L394,2024-03-02,32000.00,Multiple missed payments
+D395,L395,2024-02-05,24600.00,Payment default
+D396,L396,2024-04-04,28600.00,Freight cost increase
+D397,L397,2024-01-10,21600.00,Payment default
+D398,L398,2024-06-01,26200.00,Warehouse closure
+D399,L399,2024-03-04,32200.00,Multiple missed payments
+D400,L400,2024-02-07,24800.00,Payment default
+D401,L401,2024-04-06,28800.00,Inventory loss
+D402,L402,2024-01-12,21800.00,Payment default
+D403,L403,2024-06-03,26400.00,Supply chain breakdown
+D404,L404,2024-03-06,32400.00,Multiple missed payments
+D405,L405,2024-02-09,25000.00,Payment default
+D406,L406,2024-04-08,29000.00,Raw material shortage
+D407,L407,2024-01-14,22000.00,Payment default
+D408,L408,2024-06-05,26600.00,Manufacturing delay
+D409,L409,2024-03-08,32600.00,Multiple missed payments
+D410,L410,2024-02-11,25200.00,Payment default
+D411,L411,2024-04-10,29200.00,Production halt
+D412,L412,2024-01-16,22200.00,Payment default
+D413,L413,2024-06-07,26800.00,Equipment failure
+D414,L414,2024-03-10,32800.00,Multiple missed payments
+D415,L415,2024-02-13,25400.00,Payment default
+D416,L416,2024-04-12,29400.00,Assembly line issues
+D417,L417,2024-01-18,22400.00,Payment default
+D418,L418,2024-06-09,27000.00,Quality control failure
+D419,L419,2024-03-12,33000.00,Multiple missed payments
+D420,L420,2024-02-15,25600.00,Payment default
+D421,L421,2024-04-14,29600.00,Testing equipment down
+D422,L422,2024-01-20,22600.00,Payment default
+D423,L423,2024-06-11,27200.00,Calibration issues
+D424,L424,2024-03-14,33200.00,Multiple missed payments
+D425,L425,2024-02-17,25800.00,Payment default
+D426,L426,2024-04-16,29800.00,Measurement errors
+D427,L427,2024-01-22,22800.00,Payment default
+D428,L428,2024-06-13,27400.00,Specification changes
+D429,L429,2024-03-16,33400.00,Multiple missed payments
+D430,L430,2024-02-19,26000.00,Payment default
+D431,L431,2024-04-18,30000.00,Design flaws
+D432,L432,2024-01-24,23000.00,Payment default
+D433,L433,2024-06-15,27600.00,Engineering changes
+D434,L434,2024-03-18,33600.00,Multiple missed payments
+D435,L435,2024-02-21,26200.00,Payment default
+D436,L436,2024-04-20,30200.00,Prototype failure
+D437,L437,2024-01-26,23200.00,Payment default
+D438,L438,2024-06-17,27800.00,Research costs overrun
+D439,L439,2024-03-20,33800.00,Multiple missed payments
+D440,L440,2024-02-23,26400.00,Payment default
+D441,L441,2024-04-22,30400.00,Development delay
+D442,L442,2024-01-28,23400.00,Payment default
+D443,L443,2024-06-19,28000.00,Testing phase extended
+D444,L444,2024-03-22,34000.00,Multiple missed payments
+D445,L445,2024-02-25,26600.00,Payment default
+D446,L446,2024-04-24,30600.00,Regulatory approval
+D447,L447,2024-01-30,23600.00,Payment default
+D448,L448,2024-06-21,28200.00,Certification delay
+D449,L449,2024-03-24,34200.00,Multiple missed payments
+D450,L450,2024-02-27,26800.00,Payment default
+D451,L451,2024-04-26,30800.00,Market research costs
+D452,L452,2024-02-01,23800.00,Payment default
+D453,L453,2024-06-23,28400.00,Focus group expenses
+D454,L454,2024-03-26,34400.00,Multiple missed payments
+D455,L455,2024-02-29,27000.00,Payment default
+D456,L456,2024-04-28,31000.00,Survey costs
+D457,L457,2024-02-03,24000.00,Payment default
+D458,L458,2024-06-25,28600.00,Advertising testing
+D459,L459,2024-03-28,34600.00,Multiple missed payments
+D460,L460,2024-03-02,27200.00,Payment default
+D461,L461,2024-04-30,31200.00,Brand development
+D462,L462,2024-02-05,24200.00,Payment default
+D463,L463,2024-06-27,28800.00,Logo design costs
+D464,L464,2024-03-30,34800.00,Multiple missed payments
+D465,L465,2024-03-04,27400.00,Payment default
+D466,L466,2024-05-02,31400.00,Website development
+D467,L467,2024-02-07,24400.00,Payment default
+D468,L468,2024-06-29,29000.00,Social media campaign
+D469,L469,2024-04-01,35000.00,Multiple missed payments
+D470,L470,2024-03-06,27600.00,Payment default
+D471,L471,2024-05-04,31600.00,Content creation
+D472,L472,2024-02-09,24600.00,Payment default
+D473,L473,2024-07-01,29200.00,Video production
+D474,L474,2024-04-03,35200.00,Multiple missed payments
+D475,L475,2024-03-08,27800.00,Payment default
+D476,L476,2024-05-06,31800.00,Photography costs
+D477,L477,2024-02-11,24800.00,Payment default
+D478,L478,2024-07-03,29400.00,Graphic design
+D479,L479,2024-04-05,35400.00,Multiple missed payments
+D480,L480,2024-03-10,28000.00,Payment default
+D481,L481,2024-05-08,32000.00,Print materials
+D482,L482,2024-02-13,25000.00,Payment default
+D483,L483,2024-07-05,29600.00,Packaging design
+D484,L484,2024-04-07,35600.00,Multiple missed payments
+D485,L485,2024-03-12,28200.00,Payment default
+D486,L486,2024-05-10,32200.00,Merchandising costs
+D487,L487,2024-02-15,25200.00,Payment default
+D488,L488,2024-07-07,29800.00,Display materials
+D489,L489,2024-04-09,35800.00,Multiple missed payments
+D490,L490,2024-03-14,28400.00,Payment default
+D491,L491,2024-05-12,32400.00,Trade show expenses
+D492,L492,2024-02-17,25400.00,Payment default
+D493,L493,2024-07-09,30000.00,Exhibition costs
+D494,L494,2024-04-11,36000.00,Multiple missed payments
+D495,L495,2024-03-16,28600.00,Payment default
+D496,L496,2024-05-14,32600.00,Conference fees
+D497,L497,2024-02-19,25600.00,Payment default
+D498,L498,2024-07-11,30200.00,Seminar costs
+D499,L499,2024-04-13,36200.00,Multiple missed payments
+D500,L500,2024-03-18,28800.00,Payment default
